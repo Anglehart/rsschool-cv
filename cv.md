@@ -18,6 +18,7 @@ HTML, CSS, JS, PHP. Several CMS, like Joomla! and WordPress. Learning Node.js
     10 PRINT "WORK HARD"
     20 PRINT "PLAY HARD"
     30 GOTO 10
+    
 ## 6. My sites:
 [geodesy site](http://gd-geo.ru/), [another one](http://gczenit.ru/), [doors and windows](http://vseokna-spb.ru/)
 ## 7. Education
