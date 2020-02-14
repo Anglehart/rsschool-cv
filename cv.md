@@ -5,6 +5,7 @@
 
 ## 2. Contact Info
 Phone: +79111558237
+Telegram: same
 e-mail: planez@bk.ru
 GitHub: anglehart
 Skype: u764426
