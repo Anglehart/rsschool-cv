@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+h2 {
+  font-size: 26px;
+}
+.content {
+  max-width: 800px;
+  margin: auto;
+}
+ol > li::marker {
+  font-size: 26px;
+}
